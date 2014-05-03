@@ -1,5 +1,5 @@
 // Create by Carlo Eugster on 05/03/14
-//
+// https://github.com/carloe/FarmersMarkets
 
 float mapGeoLeft   = -130;
 float mapGeoRight  =  -63;
