@@ -1,0 +1,18 @@
+# Java Artifacts
+*.class
+*.java
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# OS Artifacts 
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ 
+# Processing Artifacts
+sketch.properties
+build-tmp/
